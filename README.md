@@ -1,6 +1,6 @@
 # Overview
 
-This software is designed to share a message with the viewer, stating "Hello World!".
+This software is designed to share a message with the viewer, stating "Hello World!". 
 
 I created this software to learn how to push to GitHub, and to review how to use VS code and Python. 
 
